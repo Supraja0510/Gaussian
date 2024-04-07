@@ -50,7 +50,7 @@ for i in range(n):
 ## Output:
 ![gaussian elimination]()
 ![image](https://github.com/Supraja0510/Gaussian/assets/155217478/6aa08b9f-fcbb-4707-8f91-269cd4b7bfcd)
-![image](https://github.com/Supraja0510/Gaussian/assets/155217478/b42d1537-c320-4887-8ca3-0dee0eb5ce86)
+![image](https://github.com/Supraja0510/Gaussian/assets/155217478/296d5f3b-ed0f-49be-99b6-17fff734e788)
 
 
 ## Result:
