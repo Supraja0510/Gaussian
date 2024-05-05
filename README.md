@@ -48,9 +48,9 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
-![image](https://github.com/Supraja0510/Gaussian/assets/155217478/6aa08b9f-fcbb-4707-8f91-269cd4b7bfcd)
-![image](https://github.com/Supraja0510/Gaussian/assets/155217478/296d5f3b-ed0f-49be-99b6-17fff734e788)
+![image](https://github.com/Supraja0510/Gaussian/assets/155217478/0146c748-65fe-4641-8f9c-65d4d0621111)
+![image](https://github.com/Supraja0510/Gaussian/assets/155217478/c9ad2537-38fe-4ea6-9b56-d284796b46e4)
+
 
 
 ## Result:
